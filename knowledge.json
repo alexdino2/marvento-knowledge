@@ -1,0 +1,86 @@
+{
+  "lastUpdated": "2026-02-22",
+  "categories": [
+    {
+      "name": "General",
+      "items": [
+        {
+          "q": "What is Marvento?",
+          "a": "Marvento is an adult-family-style co-living home in St. Augustine, Florida, designed for active seniors who want community, comfort, and light daily support."
+        },
+        {
+          "q": "Where is Marvento located?",
+          "a": "Marvento is located in St. Augustine, Florida."
+        },
+        {
+          "q": "Who is Marvento for?",
+          "a": "Marvento is designed for active seniors who value independence but appreciate having community, shared meals, and light support available."
+        }
+      ]
+    },
+    {
+      "name": "Rooms & Occupancy",
+      "items": [
+        {
+          "q": "Are rooms private?",
+          "a": "Yes, each resident has their own private room."
+        },
+        {
+          "q": "Can a couple share a room?",
+          "a": "Rooms are designed for single occupancy. Couples are welcome but would each need their own room."
+        },
+        {
+          "q": "Are pets allowed?",
+          "a": "Unfortunately, pets are not allowed at Marvento."
+        }
+      ]
+    },
+    {
+      "name": "Services & Amenities",
+      "items": [
+        {
+          "q": "Are meals included?",
+          "a": "Yes, three home-cooked meals per day are included, along with snacks."
+        },
+        {
+          "q": "What support services are provided?",
+          "a": "We offer assistance with daily activities, medication reminders, light housekeeping, and transportation to appointments."
+        },
+        {
+          "q": "Is transportation provided?",
+          "a": "Yes, transportation to medical appointments and local errands is included."
+        }
+      ]
+    },
+    {
+      "name": "Pricing & Costs",
+      "items": [
+        {
+          "q": "How much does it cost?",
+          "a": "Monthly rates vary based on the room and level of support needed. We recommend scheduling a consultation for a personalized quote."
+        },
+        {
+          "q": "Is there a deposit or move-in fee?",
+          "a": "Please schedule a consultation to discuss move-in costs and any applicable deposits."
+        }
+      ]
+    },
+    {
+      "name": "Move-In & Commitment",
+      "items": [
+        {
+          "q": "Is there a minimum stay?",
+          "a": "We ask for a minimum 3-month commitment, but we are happy to discuss your specific situation."
+        },
+        {
+          "q": "How do I get started?",
+          "a": "The first step is scheduling a consultation — either by phone, video call, or an in-person tour. We will walk you through everything and answer all your questions."
+        },
+        {
+          "q": "Can I tour the home before committing?",
+          "a": "Absolutely. We encourage in-person tours so you can see the home, meet the community, and ask questions."
+        }
+      ]
+    }
+  ]
+}
