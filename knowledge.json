@@ -39,10 +39,6 @@
       "name": "Services & Amenities",
       "items": [
         {
-          "q": "Are meals included?",
-          "a": "Yes, three home-cooked meals per day are included, along with snacks."
-        },
-        {
           "q": "What support services are provided?",
           "a": "We offer assistance with daily activities, medication reminders, light housekeeping, and transportation to appointments."
         },
@@ -57,7 +53,7 @@
       "items": [
         {
           "q": "How much does it cost?",
-          "a": "Monthly rates vary based on the room and level of support needed. We recommend scheduling a consultation for a personalized quote."
+          "a": "Monthly rates start at $1,500 and vary based on the room and level of support needed. We recommend scheduling a consultation for a personalized quote."
         },
         {
           "q": "Is there a deposit or move-in fee?",
