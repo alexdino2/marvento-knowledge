@@ -6,7 +6,7 @@
       "items": [
         {
           "q": "What is Marvento?",
-          "a": "Marvento is an adult-family-style co-living home in St. Augustine, Florida, for seniors (think Golden Girls–style shared living) and students who want community, comfort, and light daily support."
+          "a": "Marvento is co-living in homes in St. Augustine, Florida. Each room is furnished and en suite. We offer separate homes for seniors (Golden Girls–style shared living) and for students."
         },
         {
           "q": "Where is Marvento located?",
@@ -14,7 +14,7 @@
         },
         {
           "q": "Who is Marvento for?",
-          "a": "Marvento is co-living for seniors — including Golden Girls–style roommate living — and for students. It is designed for people who value independence but appreciate community, shared meals, and light support available."
+          "a": "Marvento is for seniors and for students. Seniors live in their own homes (including Golden Girls–style roommate living), and students live in a separate house — the communities are not mixed."
         }
       ]
     },
@@ -23,11 +23,19 @@
       "items": [
         {
           "q": "Are rooms private?",
-          "a": "Yes, each resident has their own private room."
+          "a": "Yes, each resident has their own private room. Every room is furnished and en suite."
+        },
+        {
+          "q": "Are rooms furnished and en suite?",
+          "a": "Yes. Every room comes furnished with a private en suite bathroom."
         },
         {
           "q": "Can a couple share a room?",
           "a": "Rooms are designed for single occupancy. Couples are welcome but would each need their own room."
+        },
+        {
+          "q": "Do seniors and students live in the same house?",
+          "a": "No. Students live in a separate house from seniors."
         },
         {
           "q": "Are pets allowed?",
