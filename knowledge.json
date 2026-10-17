@@ -1,20 +1,32 @@
 {
-  "lastUpdated": "2026-09-07",
+  "lastUpdated": "2026-10-17",
   "categories": [
     {
       "name": "General",
       "items": [
         {
           "q": "What is Marvento?",
-          "a": "Marvento is co-living in homes in St. Augustine, Florida. Each room is furnished and en suite. We offer separate homes for seniors (Golden Girls–style shared living) and for students."
+          "a": "Marvento is furnished co-living in St. Augustine, Florida. Each resident rents a private, furnished bedroom with its own en suite bathroom and shares the kitchen, living areas, laundry and yard with a small group of housemates. We run two separate homes on Datura Street: 3540 Datura for active adults 55+ (Golden Girls–style shared living) and 3530 Datura for students, including flight students training at the St. Augustine airport."
         },
         {
           "q": "Where is Marvento located?",
-          "a": "Marvento is located in St. Augustine, Florida."
+          "a": "Both homes are on Datura Street in St. Augustine, Florida (3530 and 3540 Datura Street), in a quiet residential neighborhood off the U.S. 1 corridor. Grocery stores, pharmacies and restaurants are a few minutes away, and historic downtown St. Augustine, Flagler Hospital and the beaches are a short drive."
         },
         {
           "q": "Who is Marvento for?",
-          "a": "Marvento is for seniors and for students. Seniors live in their own homes (including Golden Girls–style roommate living), and students live in a separate house — the communities are not mixed."
+          "a": "3540 Datura is senior independent living for active adults 55+ who can manage daily life on their own but would rather not live alone. 3530 Datura is student housing, built around flight students at Florida Flyers and the other schools at Northeast Florida Regional Airport (KSGJ), and also suited to Flagler College students approved to live off campus. The two communities are not mixed."
+        },
+        {
+          "q": "I'm not a senior or a student. Can I still rent a room?",
+          "a": "Thanks for asking. Our homes are set up as a 55+ home and a student home. Tell us your move-in and move-out dates and a little about yourself, and we'll let you know whether we have a room that fits."
+        },
+        {
+          "q": "Is Marvento assisted living?",
+          "a": "No. Marvento is independent living. We are not an assisted living facility or adult family care home, and we do not provide licensed care, medical services, medication management or hands-on personal care. If someone needs help with bathing, dressing or medications, a licensed assisted living provider is the better fit."
+        },
+        {
+          "q": "How do I contact Marvento?",
+          "a": "Call (904) 827-7836, email marventohomes@gmail.com, or visit marventohomes.com."
         }
       ]
     },
@@ -23,36 +35,81 @@
       "items": [
         {
           "q": "Are rooms private?",
-          "a": "Yes, each resident has their own private room. Every room is furnished and en suite."
+          "a": "Yes. Every resident has their own private bedroom with a private en suite bathroom. The kitchen, living areas, laundry and yard are shared."
         },
         {
-          "q": "Are rooms furnished and en suite?",
-          "a": "Yes. Every room comes furnished with a private en suite bathroom."
+          "q": "Is it an apartment?",
+          "a": "No. It's a single furnished home with a handful of private en suite rooms, not an apartment complex. You get a private bedroom and bathroom plus a shared full kitchen, living rooms, laundry and fenced yard, without a leasing office or amenity fees."
+        },
+        {
+          "q": "What furniture comes with the room?",
+          "a": "Rooms are move-in ready: bed, linens, storage and closet space. Rooms at the student home (3530 Datura) also have a study desk, an ergonomic chair and blackout curtains. You just bring your personal belongings."
         },
         {
           "q": "Can a couple share a room?",
-          "a": "Rooms are designed for single occupancy. Couples are welcome but would each need their own room."
+          "a": "Rooms in the 55+ home are single occupancy, so a couple would each need their own room. At the student home (3530 Datura), select larger rooms can be shared by two people at a lower per-person rate."
         },
         {
           "q": "Do seniors and students live in the same house?",
-          "a": "No. Students live in a separate house from seniors."
+          "a": "No. Seniors live at 3540 Datura and students live at 3530 Datura. They are separate homes."
         },
         {
           "q": "Are pets allowed?",
-          "a": "Unfortunately, pets are not allowed at Marvento."
+          "a": "No. Both homes are pet-free so the shared spaces stay clean and allergen-free for everyone."
+        },
+        {
+          "q": "Is there parking?",
+          "a": "Yes. Off-street driveway parking is included at the student home (3530 Datura)."
+        },
+        {
+          "q": "Is there laundry?",
+          "a": "Yes. Each home has an in-home washer and dryer for residents."
+        },
+        {
+          "q": "What is the house like day to day?",
+          "a": "It's a real home, not a dorm or a facility. Residents cook in the shared kitchen, use the living rooms and fenced backyard, and keep their own schedules. The student home has enforced quiet hours and blackout curtains so flight students can rest around early departures and late cross-countries."
         }
       ]
     },
     {
-      "name": "Services & Amenities",
+      "name": "What's Included",
       "items": [
         {
-          "q": "What support services are provided?",
-          "a": "We offer assistance with daily activities, medication reminders, light housekeeping, and transportation to appointments."
+          "q": "What is included in the monthly rate?",
+          "a": "Your private furnished room with en suite bathroom, all utilities (electric, water and sewer), Wi-Fi, weekly housekeeping of the common areas, home and yard maintenance, and use of the shared kitchen, living rooms, laundry and yard. There are no utility accounts to open, no internet install and no furniture to buy. It's one simple monthly bill."
+        },
+        {
+          "q": "Is Wi-Fi included, and is it fast?",
+          "a": "Yes. The homes run enterprise-grade Wi-Fi built for several residents at once: streaming ground school, ForeFlight database downloads, weather briefings and video calls home."
+        },
+        {
+          "q": "Is housekeeping included?",
+          "a": "Weekly housekeeping of the common areas is included. Residents keep their own rooms; extra cleaning of a personal suite can be arranged through a local partner for a separate fee."
+        },
+        {
+          "q": "Are meals included?",
+          "a": "No. Meals are not included. Each home has a full shared kitchen where residents cook for themselves. Meal delivery can be arranged through local partners if you want it."
         },
         {
           "q": "Is transportation provided?",
-          "a": "Yes, transportation to medical appointments and local errands is included."
+          "a": "Transportation is not included in the rate. Rides to appointments, church, shopping and errands can be arranged through local partners and are billed by that provider."
+        }
+      ]
+    },
+    {
+      "name": "Optional Services",
+      "items": [
+        {
+          "q": "What support services are available?",
+          "a": "Marvento doesn't provide care, but we can connect residents with trusted local partners for optional services: home health through Concierge Home Care, transportation and errands, grocery shopping help, meal delivery, done-for-you laundry, in-home hair and nail care, and senior fitness classes. You pick only what you want and arrange it directly with the provider, who bills you separately."
+        },
+        {
+          "q": "Are there social activities?",
+          "a": "Yes. The 55+ home has a weekly Sunday Social, a relaxed gathering for conversation, a meal and good company, plus group outings and game nights with community partners."
+        },
+        {
+          "q": "What if my care needs change?",
+          "a": "If you or a loved one needs more support over time, St. Augustine has assisted living facilities and home health agencies that can help. Because Marvento doesn't require a long-term contract, residents can move to a higher level of care when the time is right."
         }
       ]
     },
@@ -61,28 +118,98 @@
       "items": [
         {
           "q": "How much does it cost?",
-          "a": "Monthly rates start at $1,500 and vary based on the room and level of support needed. We recommend scheduling a consultation for a personalized quote."
+          "a": "Rooms at the 55+ home (3540 Datura) start at $1,500/month. At the student home (3530 Datura), rates depend on length of stay: $1,650/month month-to-month, $1,495 for 3–5 months, $1,350 for 6–9 months and $1,195 for 10–12 months. Flight students get a lower rate: $1,450 month-to-month, $1,295 for 3–5 months, $1,150 for 6–9 months and $995 for 10–12 months. Select larger rooms can be shared for $850 per person ($650 for flight students). Rates move with how full the home is, so we'll confirm your exact rate when you reach out."
+        },
+        {
+          "q": "Why does the rate change?",
+          "a": "Our rates are set by how full each home is. The first residents in a home get an early-resident rate, and the rate steps up as the last rooms fill. Longer stays also get a lower monthly rate."
+        },
+        {
+          "q": "Is there any flexibility on price?",
+          "a": "Our rates are already set by length of stay and how full the home is, so the best way to lower your monthly rate is a longer term. Tell us your dates and budget and we'll quote the best rate available for that stay."
         },
         {
           "q": "Is there a deposit or move-in fee?",
-          "a": "Please schedule a consultation to discuss move-in costs and any applicable deposits."
+          "a": "There are no buy-in fees and no utility deposits. We'll walk you through any move-in costs when we confirm your room."
+        },
+        {
+          "q": "Can I pay rent with a student loan stipend?",
+          "a": "Often, yes. Flight training loans such as the Sallie Mae Career Training and Airline Career loans can include a living-expense allowance. Ask your flight school's financial aid contact to include housing when certifying your loan. We provide a signed lease and monthly receipts for your school's records. Marvento is not a lender and isn't affiliated with Sallie Mae, so confirm eligibility and amounts with your lender and school."
         }
       ]
     },
     {
-      "name": "Move-In & Commitment",
+      "name": "Leasing & Move-In",
       "items": [
         {
           "q": "Is there a minimum stay?",
-          "a": "We ask for a minimum 3-month commitment, but we are happy to discuss your specific situation."
+          "a": "No long-term contract is required. You can start month-to-month, or lock in a longer term (3–5, 6–9 or 10–12 months) for a lower monthly rate. Terms can line up with a training program or academic year."
+        },
+        {
+          "q": "What do I need to apply?",
+          "a": "The application is straightforward and includes a credit check. You do not need a U.S. Social Security number or a domestic co-signer. We'll send you the lease and the next steps once we confirm your room and dates."
+        },
+        {
+          "q": "I'm an international student. Can I rent before I arrive?",
+          "a": "Yes. We lease directly without requiring a U.S. Social Security number or domestic co-signer, and we can process your lease and hold your room remotely before you land, including for students waiting on an M1 visa."
+        },
+        {
+          "q": "How quickly can I move in?",
+          "a": "Rooms are furnished and move-in ready, with utilities and Wi-Fi already on. Tell us your move-in date and we'll confirm availability, usually within 24 hours."
         },
         {
           "q": "How do I get started?",
-          "a": "The first step is scheduling a consultation — either by phone, video call, or an in-person tour. We will walk you through everything and answer all your questions."
+          "a": "Send us your move-in and move-out dates and a little about yourself. We'll confirm availability within 24 hours and set up a call or a tour. You can also book a tour at marventohomes.com/schedule-a-tour or call (904) 827-7836."
         },
         {
           "q": "Can I tour the home before committing?",
-          "a": "Absolutely. We encourage in-person tours so you can see the home, meet the community, and ask questions."
+          "a": "Absolutely. You can book an in-person tour at marventohomes.com/schedule-a-tour (you'll get a calendar invite right away) or call (904) 827-7836. If you're out of town, we can do a video call instead."
+        }
+      ]
+    },
+    {
+      "name": "Student & Flight Student Housing",
+      "items": [
+        {
+          "q": "How close is the home to the St. Augustine airport and Florida Flyers?",
+          "a": "3530 Datura Street is about 3.9 miles from Northeast Florida Regional Airport (KSGJ), an 8 to 11 minute drive straight up U.S. 1. Florida Flyers Flight Academy at 4730 Casa Cola Way is the same short drive."
+        },
+        {
+          "q": "How close is it to Flagler College?",
+          "a": "About a 10-minute drive to the King Street campus downtown. Flagler requires most first- and second-year students to live on campus, so this is a fit for students approved to live off campus."
+        },
+        {
+          "q": "Can I lease for just the length of my training?",
+          "a": "Yes. Stay month-to-month for a single rating or short program, or choose a longer term for a lower rate. There's no rigid 12-month lease."
+        },
+        {
+          "q": "How does this compare with a motel or apartment near the airport?",
+          "a": "Local extended-stay motels run about $1,450/month for a room on the highway, and a one-bedroom apartment near the airport often climbs past $2,000/month once you add fees, utilities, internet and furniture. Here you get a private furnished room with your own bathroom, a full kitchen, weekly common-area cleaning and utilities in one monthly rate."
+        }
+      ]
+    },
+    {
+      "name": "Furnished Finder Response Guidelines",
+      "items": [
+        {
+          "q": "How fast should we reply to a Furnished Finder inquiry?",
+          "a": "Within 24 hours, and sooner is better. Furnished Finder says tenants are 1.5x as likely to reply when hosts respond within 24 hours, and fast replies raise our response rate and search visibility. If we can't host the dates, still send a short, polite reply."
+        },
+        {
+          "q": "What should every reply include?",
+          "a": "Thank them by name. Answer their direct questions first (availability for their dates, private vs. shared, price). Confirm the room is private with its own en suite bathroom and that the kitchen, living areas and laundry are shared. Give the rate that fits their length of stay. Invite them to tour or hop on a call. Sign off as The Marvento Team."
+        },
+        {
+          "q": "Who typically inquires on Furnished Finder?",
+          "a": "Travel nurses and other traveling professionals, remote workers relocating to the area, flight students arriving for 6–12 months of training, and adult children looking for a furnished place for an aging parent. Most ask about availability for specific dates, whether the space is private or shared, price flexibility and what documents are needed."
+        },
+        {
+          "q": "When is an inquiry not a fit?",
+          "a": "Someone with a pet (both homes are pet-free), someone who needs hands-on care or medication help (we're independent living, not assisted living), or someone who wants an entire place to themselves (rooms are private but the kitchen and living areas are shared). Reply kindly, explain why, and wish them well."
+        },
+        {
+          "q": "What should we not promise?",
+          "a": "Don't promise discounts, specific move-in costs, care services or anything not in this knowledge base. Don't call the rate \"all-inclusive\"; say utilities, Wi-Fi and weekly common-area housekeeping are included. Don't say there's no credit check; we run one. Don't say meals or transportation are included. When unsure, say the team will confirm and follow up."
         }
       ]
     }
